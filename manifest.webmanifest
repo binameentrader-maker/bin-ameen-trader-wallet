@@ -1,7 +1,7 @@
 {
-  "name": "BIN AMEEN TRADER",
-  "short_name": "BIN AMEEN TRADER",
-  "description": "BIN AMEEN TRADER Cash Wallet",
+  "name": "BAT",
+  "short_name": "BAT",
+  "description": "BAT Cash Wallet",
   "id": "./",
   "start_url": "./",
   "scope": "./",
