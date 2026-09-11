@@ -1,0 +1,12 @@
+{
+  "name": "BIN AMEEN TRADER Cash Wallet",
+  "short_name": "BIN AMEEN WALLET",
+  "description": "BIN AMEEN TRADER physical cash management wallet",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#C5D0DA",
+  "theme_color": "#1B2A4A",
+  "orientation": "portrait",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
